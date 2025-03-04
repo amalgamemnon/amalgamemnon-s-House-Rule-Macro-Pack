@@ -29,9 +29,9 @@ https://github.com/amalgamemnon/amalgamemnon-House-Rule-Macro-Pack/releases/late
 - **How to Use:** Click the macro when the condition is met.
 
 ### Better Potions Macro
-- **Description:** Better Potions is a buff to healing potions (and similar).  The house rule we allow is that players can use potions (and similar items) for 1 action given that they're readily available (not stowed in a backpack or similar) and roll for healing.  We also allow players toc choose to spend 2 actions to instead get maximum healing instead of rolling for healing.  This macro will detect any items with the consumable and healing traits in your inventory, allowing you to choose which to use.  It will then ask whether you'd like to use the 1-action (roll for healing) or 2-action (maximum healing) version of the potion.
+- **Description:** Better Potions is a buff to healing potions (and similar).  The house rule we allow is that players can use potions (and similar items) for 1 action given that they're readily available (not stowed in a backpack or similar) and roll for healing.  We also allow players to choose to spend 2 actions to instead get maximum healing instead of rolling for healing.  This macro will detect any items with the consumable and healing traits in your inventory, allowing you to choose which to use.  It will then ask whether you'd like to use the 1-action (roll for healing) or 2-action (maximum healing) version of the potion.
 - **Effect:** Drinking a potion automatically applies the correct healing amount based on the choice, and deducts the healing potion from your inventory.
-- **How to Use:** Select your token, then activate the macro, which will pop up a dialog to use the healing potions.
+- **How to Use:** Select your token, then activate the macro, which will pop up a dialog to use the healing potions available to you.
 
 ## 📝 Notes
 - These macros are written specifically for **Pathfinder 2E** in Foundry VTT.
